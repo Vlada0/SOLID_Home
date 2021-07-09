@@ -1,0 +1,13 @@
+D:\Amdaris\SOLIDHomeWork\SOLID_ISP_Wrong\bin\Debug\netcoreapp3.1\SOLID_ISP_Wrong.exe
+D:\Amdaris\SOLIDHomeWork\SOLID_ISP_Wrong\bin\Debug\netcoreapp3.1\SOLID_ISP_Wrong.deps.json
+D:\Amdaris\SOLIDHomeWork\SOLID_ISP_Wrong\bin\Debug\netcoreapp3.1\SOLID_ISP_Wrong.runtimeconfig.json
+D:\Amdaris\SOLIDHomeWork\SOLID_ISP_Wrong\bin\Debug\netcoreapp3.1\SOLID_ISP_Wrong.runtimeconfig.dev.json
+D:\Amdaris\SOLIDHomeWork\SOLID_ISP_Wrong\bin\Debug\netcoreapp3.1\SOLID_ISP_Wrong.dll
+D:\Amdaris\SOLIDHomeWork\SOLID_ISP_Wrong\bin\Debug\netcoreapp3.1\SOLID_ISP_Wrong.pdb
+D:\Amdaris\SOLIDHomeWork\SOLID_ISP_Wrong\obj\Debug\netcoreapp3.1\SOLID_ISP_Wrong.csprojAssemblyReference.cache
+D:\Amdaris\SOLIDHomeWork\SOLID_ISP_Wrong\obj\Debug\netcoreapp3.1\SOLID_ISP_Wrong.AssemblyInfoInputs.cache
+D:\Amdaris\SOLIDHomeWork\SOLID_ISP_Wrong\obj\Debug\netcoreapp3.1\SOLID_ISP_Wrong.AssemblyInfo.cs
+D:\Amdaris\SOLIDHomeWork\SOLID_ISP_Wrong\obj\Debug\netcoreapp3.1\SOLID_ISP_Wrong.csproj.CoreCompileInputs.cache
+D:\Amdaris\SOLIDHomeWork\SOLID_ISP_Wrong\obj\Debug\netcoreapp3.1\SOLID_ISP_Wrong.dll
+D:\Amdaris\SOLIDHomeWork\SOLID_ISP_Wrong\obj\Debug\netcoreapp3.1\SOLID_ISP_Wrong.pdb
+D:\Amdaris\SOLIDHomeWork\SOLID_ISP_Wrong\obj\Debug\netcoreapp3.1\SOLID_ISP_Wrong.genruntimeconfig.cache

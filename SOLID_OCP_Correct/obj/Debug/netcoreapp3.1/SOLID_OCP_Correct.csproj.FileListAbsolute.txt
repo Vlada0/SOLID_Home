@@ -1,0 +1,13 @@
+D:\Amdaris\SOLIDHomeWork\SOLID_OCP_Correct\bin\Debug\netcoreapp3.1\SOLID_OCP_Correct.exe
+D:\Amdaris\SOLIDHomeWork\SOLID_OCP_Correct\bin\Debug\netcoreapp3.1\SOLID_OCP_Correct.deps.json
+D:\Amdaris\SOLIDHomeWork\SOLID_OCP_Correct\bin\Debug\netcoreapp3.1\SOLID_OCP_Correct.runtimeconfig.json
+D:\Amdaris\SOLIDHomeWork\SOLID_OCP_Correct\bin\Debug\netcoreapp3.1\SOLID_OCP_Correct.runtimeconfig.dev.json
+D:\Amdaris\SOLIDHomeWork\SOLID_OCP_Correct\bin\Debug\netcoreapp3.1\SOLID_OCP_Correct.dll
+D:\Amdaris\SOLIDHomeWork\SOLID_OCP_Correct\bin\Debug\netcoreapp3.1\SOLID_OCP_Correct.pdb
+D:\Amdaris\SOLIDHomeWork\SOLID_OCP_Correct\obj\Debug\netcoreapp3.1\SOLID_OCP_Correct.csprojAssemblyReference.cache
+D:\Amdaris\SOLIDHomeWork\SOLID_OCP_Correct\obj\Debug\netcoreapp3.1\SOLID_OCP_Correct.AssemblyInfoInputs.cache
+D:\Amdaris\SOLIDHomeWork\SOLID_OCP_Correct\obj\Debug\netcoreapp3.1\SOLID_OCP_Correct.AssemblyInfo.cs
+D:\Amdaris\SOLIDHomeWork\SOLID_OCP_Correct\obj\Debug\netcoreapp3.1\SOLID_OCP_Correct.csproj.CoreCompileInputs.cache
+D:\Amdaris\SOLIDHomeWork\SOLID_OCP_Correct\obj\Debug\netcoreapp3.1\SOLID_OCP_Correct.dll
+D:\Amdaris\SOLIDHomeWork\SOLID_OCP_Correct\obj\Debug\netcoreapp3.1\SOLID_OCP_Correct.pdb
+D:\Amdaris\SOLIDHomeWork\SOLID_OCP_Correct\obj\Debug\netcoreapp3.1\SOLID_OCP_Correct.genruntimeconfig.cache

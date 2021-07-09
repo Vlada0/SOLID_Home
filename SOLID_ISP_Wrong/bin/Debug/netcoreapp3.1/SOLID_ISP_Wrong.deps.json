@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SOLID_ISP_Wrong/1.0.0": {
+        "runtime": {
+          "SOLID_ISP_Wrong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLID_ISP_Wrong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

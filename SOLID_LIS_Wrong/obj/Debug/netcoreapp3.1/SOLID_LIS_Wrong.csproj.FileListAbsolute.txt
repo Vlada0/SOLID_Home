@@ -1,0 +1,13 @@
+D:\Amdaris\SOLIDHomeWork\SOLID_LIS_Wrong\bin\Debug\netcoreapp3.1\SOLID_LIS_Wrong.exe
+D:\Amdaris\SOLIDHomeWork\SOLID_LIS_Wrong\bin\Debug\netcoreapp3.1\SOLID_LIS_Wrong.deps.json
+D:\Amdaris\SOLIDHomeWork\SOLID_LIS_Wrong\bin\Debug\netcoreapp3.1\SOLID_LIS_Wrong.runtimeconfig.json
+D:\Amdaris\SOLIDHomeWork\SOLID_LIS_Wrong\bin\Debug\netcoreapp3.1\SOLID_LIS_Wrong.runtimeconfig.dev.json
+D:\Amdaris\SOLIDHomeWork\SOLID_LIS_Wrong\bin\Debug\netcoreapp3.1\SOLID_LIS_Wrong.dll
+D:\Amdaris\SOLIDHomeWork\SOLID_LIS_Wrong\bin\Debug\netcoreapp3.1\SOLID_LIS_Wrong.pdb
+D:\Amdaris\SOLIDHomeWork\SOLID_LIS_Wrong\obj\Debug\netcoreapp3.1\SOLID_LIS_Wrong.csprojAssemblyReference.cache
+D:\Amdaris\SOLIDHomeWork\SOLID_LIS_Wrong\obj\Debug\netcoreapp3.1\SOLID_LIS_Wrong.AssemblyInfoInputs.cache
+D:\Amdaris\SOLIDHomeWork\SOLID_LIS_Wrong\obj\Debug\netcoreapp3.1\SOLID_LIS_Wrong.AssemblyInfo.cs
+D:\Amdaris\SOLIDHomeWork\SOLID_LIS_Wrong\obj\Debug\netcoreapp3.1\SOLID_LIS_Wrong.csproj.CoreCompileInputs.cache
+D:\Amdaris\SOLIDHomeWork\SOLID_LIS_Wrong\obj\Debug\netcoreapp3.1\SOLID_LIS_Wrong.dll
+D:\Amdaris\SOLIDHomeWork\SOLID_LIS_Wrong\obj\Debug\netcoreapp3.1\SOLID_LIS_Wrong.pdb
+D:\Amdaris\SOLIDHomeWork\SOLID_LIS_Wrong\obj\Debug\netcoreapp3.1\SOLID_LIS_Wrong.genruntimeconfig.cache
